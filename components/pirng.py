@@ -16,4 +16,4 @@ def rrng() :
 	r_nbr1 *= 2;
 	r_nbr2 *= 2;
 	r_nbr = str(r_nbr1 * r_nbr2 * rdm).zfill(12)[:12];  
-	print(r_nbr)
+	print(r_nbr);
